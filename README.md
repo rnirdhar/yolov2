@@ -9,6 +9,8 @@ Train  :
 Test :
 
       for predicating your image you need trained model.h5 file
+      
+PS: weight and model file not added here because of large size
   
 
  
